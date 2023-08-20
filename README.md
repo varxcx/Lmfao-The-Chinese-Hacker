@@ -20,7 +20,7 @@ Thanks for stopping by my github page! Let's team up and create digital experien
 
 #### Let's connect! 
 
-[<img align="left" alt="Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/varxcx_) 
+[<img align="left" alt="X" width="35px" src="./assets/X.png" />](https://twitter.com/varxcx_) 
 [<img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://linkedin.com/in/varxcx) 
 [<img align="left" alt="Email" width="35px" src="./assets/Gmail.png" />](mailto:varphyinson@gmail.com)
 
